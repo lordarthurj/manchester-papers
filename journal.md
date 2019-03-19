@@ -1,7 +1,7 @@
 # Author
-Simon McCormack, university manchester
+Simon McCormack, university Manchester
 Magnus mc Magnus, castle greyskull
-
+ 
 # Title
 # Literature overview of water vapour cycling in Ytterbium disilicate Environmental barrier coatings
 
@@ -22,10 +22,12 @@ We use XRD and SEM to analyse the microstructural changes during the steam cycli
 Loads of time in a furnace innit
 
 # conclusions
-Need more work to be done and stuff
+Need more work to be done and stuff. 
 
 # Figures
 pics and tings
 
 # Acknowledgement
 CHEERS LADS
+
+Nothing further to add, soz. Good paper
