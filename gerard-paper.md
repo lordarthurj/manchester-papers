@@ -1,6 +1,6 @@
 # Author
-- Gerard Capes University of Manchester
-- John Smith   University of Somewhere Else
+- Gerard Capes, University of Manchester
+- John Smith,   University of Somewhere Else
 
 # Title
 Measurement - model comparison of biomass burning aerosol aging over West Africa
