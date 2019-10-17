@@ -10,7 +10,7 @@ Summarise the main findings here.
 
 # Introduction section
 We present measurements of BBOA over West Africa.
-Particle size was measured a PCASP, as described in Bloggs et al 2004.
+Particle size was measured using a PCASP, as described in Bloggs et al 2004.
 Smith et al (1998) conducted several studies in this region before,
 but continental-scale measurements have not previously been made.
 
